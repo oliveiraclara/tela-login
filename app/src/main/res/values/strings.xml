@@ -7,4 +7,7 @@
     <string name="sign_in">SIGN IN </string>
     <string name="not_have_account">Don\'t have an account?</string>
     <string name="sign_up">Sign up</string>
+    <string name="email_description">Email icon inside text field</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
 </resources>
